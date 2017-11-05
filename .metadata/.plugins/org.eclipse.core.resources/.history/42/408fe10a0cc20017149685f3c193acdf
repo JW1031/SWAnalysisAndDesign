@@ -9,7 +9,5 @@ public class Login {
 		id = kbd.nextLine();
 		System.out.println("비밀번호를 입력하세요: ");
 		password = kbd.nextLine();
-		
-		System.out.println("hello world!\n");
 	}
 }
